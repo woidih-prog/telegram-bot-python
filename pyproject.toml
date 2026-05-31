@@ -8,6 +8,7 @@ readme = "README.md"
 dependencies = [
     "pytelegrambotapi>=4.30.0,<5",
     "python-dotenv>=1.2.1,<2",
+"anthropic>=0.25.0",
 ]
 
 [tool.uv]
